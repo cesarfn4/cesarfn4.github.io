@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 title                    : "Cfernand's Blog"
 locale                   : "en-US"
-url                      : https://blog.cfernand.com
+url                      : http://blog.cfernand.com
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cesar Fernandez"
