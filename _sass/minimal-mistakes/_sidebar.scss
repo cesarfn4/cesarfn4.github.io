@@ -134,12 +134,13 @@
   }
 
   img {
-    max-width: 200px;
+    max-width: 110px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 1px;
+      padding: 5px;
       border: 1px solid $border-color;
-    } 
+    }
   }
 }
 
@@ -178,8 +179,6 @@
 
 .author__bio {
   margin: 0;
-  font-size: 0.9em;
-  font-style: italic;
 
   @include breakpoint($large) {
     margin-top: 10px;
