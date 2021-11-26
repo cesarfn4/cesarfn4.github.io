@@ -92,7 +92,7 @@ analytics:
 # Site Author
 author:
   name             : "Cesar Fernandez"
-  avatar           : "photo-bio.jpg"
+  avatar           : "images/photo-bio.jpg"
   bio              : "Linux Geek. Devops & Kubernetes enthusiast.                 SSA @ Red Hat."
   # location         : "Somewhere"
   email            :
