@@ -92,9 +92,9 @@ analytics:
 # Site Author
 author:
   name             : "Cesar Fernandez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "photo-bio.jpg"
+  bio              : "Linux Geek. Devops & Kubernetes enthusiast.                 SSA @ Red Hat."
+  # location         : "Somewhere"
   email            :
   links:
     - label: "Email"
