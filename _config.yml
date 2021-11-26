@@ -85,7 +85,7 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : cfernand
+    tracking_id          : UA-38676921-4
     anonymize_ip         : # true, false (default)
 
 
