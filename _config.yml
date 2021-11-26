@@ -13,7 +13,7 @@ name                     : "Cesar Fernandez"
 description              : "Ansible SSA @ Red Hat."
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "cesarfn4/cesarfn4.github.io"
-teaser                   : "images/photo-teaser.jpg"
+teaser                   : # "images/photo-teaser.jpg"
 logo                     : # "images/linux-terminal.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
