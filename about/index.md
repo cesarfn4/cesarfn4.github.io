@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: About me
-tags: [about, Jekyll, theme, responsive]
+tags: []
 comments: false
 share: false
 ---
