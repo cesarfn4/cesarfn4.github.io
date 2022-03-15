@@ -1,10 +1,7 @@
 ---
-layout: pages
+layout: home
 title: About me
-type: page
-tags: []
-comments: false
-share: false
+author_profile: true
 ---
 
 ## EMEA Specialist Solutions Architect at Red Hat
