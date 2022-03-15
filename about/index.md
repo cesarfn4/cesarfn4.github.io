@@ -1,7 +1,13 @@
 ---
 layout: home
 title: About me
-author_profile: true
+published: true
+status: publish
+categories:
+- Blog
+tags: []
+author: cfernand
+comments: true
 ---
 
 ## EMEA Specialist Solutions Architect at Red Hat
