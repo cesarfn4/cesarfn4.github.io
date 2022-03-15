@@ -1,6 +1,7 @@
 ---
-layout: single
+layout: pages
 title: About me
+type: page
 tags: []
 comments: false
 share: false
